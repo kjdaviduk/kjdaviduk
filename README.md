@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Koen Daviduk
+- 👀 I’m interested in programming, hardware, general technical skills
+- 🌱 I’m currently working on getting my Associates of Science
+- 💞️ I’m looking to collaborate on anything at any time, I want to learn about the technical world
+- 📫 How to reach me kjdaviduk@outlook.com
